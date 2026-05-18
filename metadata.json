@@ -1,0 +1,6 @@
+{
+  "name": "EliteCV Builder AI",
+  "description": "Premium AI-powered CV and portfolio generator with ATS optimization and professional templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
